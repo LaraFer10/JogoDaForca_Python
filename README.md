@@ -1,2 +1,3 @@
 # JogoDaForca_Python
-Jogo da Forca desenvolvido em Python utilizando Orientação a Objetos! OBS: Leia o arquivo README.
+Caso deseje executar esta aplicação em seu computador, é necessario que instale o pacote unidecode.
+utilize o comando 'pip install unidecode' em seu cmd.
